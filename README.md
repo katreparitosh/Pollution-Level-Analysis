@@ -3,4 +3,4 @@ Analysis of pollution levels from different parts of the state of Assam for year
 
 Dataset obtained from data.gov.in.
 
-Used *Seaborn* for basic visualization using barplots.
+Used *Seaborn* for basic data visualization using barplots.
